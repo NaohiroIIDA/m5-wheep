@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "Bash(gh auth *)",
-      "Bash(git init *)"
+      "Bash(git init *)",
+      "Bash(git commit -q -m 'Initial commit: M5Stack CoreS3 wheep project *)",
+      "Bash(git commit -q -m 'Replace ASCII art with SVG diagram in README *)"
     ]
   }
 }

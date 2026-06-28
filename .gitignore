@@ -1,0 +1,6 @@
+.pio/
+.vscode/
+.DS_Store
+*.swp
+CMakeListsPrivate.txt
+build/
